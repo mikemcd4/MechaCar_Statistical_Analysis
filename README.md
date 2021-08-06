@@ -8,12 +8,19 @@ Using R Studio, two datasets were examined in relation to the "MechaCar", a new 
 
 ![linear_mpg](https://user-images.githubusercontent.com/77767984/128565769-3d0cdb47-4d79-4d03-98bd-064db6d38f84.png)
 
+From the multiple linear regression model, we can see that Vehicle Length and Ground Clearance have an impact on the miles per gallon of each vehicle. By looking at the adjusted R squared value, nearly 69% of the data fits the model, which may or may not provide a confident analysis depending on opinion.
 
 ## Summary Statistics on Suspension Coils
 
+Total summary between all manufacturing lots
+
 ![totalsummary](https://user-images.githubusercontent.com/77767984/128565889-9c40bc1b-d5e6-4cc1-ab50-e9e1f479e715.png)
 
+Below is the summary for each respective manufacturing lot
+
 ![lotsummary](https://user-images.githubusercontent.com/77767984/128565913-a900aae4-0540-4adb-b3ae-376f086f5bbd.png)
+
+Below are the t tests for each manufacturing lot. For Lots 1 and 2, the p value can be examined to determine that we fail to reject the null-hypothesis and conclude that the PSI means are not statistically different from the population as a whole. However, for lot 3 the p value is 0.0417, which means we can reject the null-hypothesis, thus showing that further investigation is required into lot 3 to determine what is causing the discrepencies.
 
 ![ttest1](https://user-images.githubusercontent.com/77767984/128565929-b344741a-58c7-4906-af66-f022800231c2.PNG)
 
