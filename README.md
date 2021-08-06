@@ -37,3 +37,5 @@ Below are the t tests for each manufacturing lot. For Lots 1 and 2, the p value 
 
 
 ## Study Design: MechaCar vs Competition
+
+Firstly, a final prototype will have to be designed, built, and approved for road use. It would then have to be compared to a vehicle in a similar class from a competitor. MechaCar should evaluate what design gives the best MPG, while factoring in other things such as safety and consumer appeal. The discrepencies in lot 3 would need to be investigated and resolved as well, to ensure that each vehicle is being built to design standard, regardless of where it is manufactured at. Statistics such as MPG, miles driven per day or week, maintenance issues, etc. could be pulled from both the MechaCar and the competitor, and then be analyzed to determine which one had more success overall.
