@@ -1,7 +1,32 @@
 # MechaCar_Statistical_Analysis
 
+### Overview
+
+Using R Studio, two datasets were examined in relation to the "MechaCar", a new prototype automobile. The first dataset examines the miles per gallon in relation to the vehicle design. The second dataset examines the PSI values across three different manufacturing lots, in order to determine if there are any inconsistencies between the lots.
+
 ## Linear Regression to Predict MPG
 
+![linear_mpg](https://user-images.githubusercontent.com/77767984/128565769-3d0cdb47-4d79-4d03-98bd-064db6d38f84.png)
+
+
 ## Summary Statistics on Suspension Coils
+
+![totalsummary](https://user-images.githubusercontent.com/77767984/128565889-9c40bc1b-d5e6-4cc1-ab50-e9e1f479e715.png)
+
+![lotsummary](https://user-images.githubusercontent.com/77767984/128565913-a900aae4-0540-4adb-b3ae-376f086f5bbd.png)
+
+![ttest1](https://user-images.githubusercontent.com/77767984/128565929-b344741a-58c7-4906-af66-f022800231c2.PNG)
+
+![ttest2](https://user-images.githubusercontent.com/77767984/128565948-90f7d661-a51d-478f-af5f-4b46115aa39a.PNG)
+
+![ttest3](https://user-images.githubusercontent.com/77767984/128565972-ff0be2a3-21d7-4b31-8b07-d5296690aaf8.PNG)
+
+![ttest4](https://user-images.githubusercontent.com/77767984/128565984-2032d24d-f311-4a9b-9947-e92c62f72ddf.PNG)
+
+
+
+
+
+
 
 ## Study Design: MechaCar vs Competition
